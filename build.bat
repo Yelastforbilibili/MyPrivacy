@@ -1,0 +1,1 @@
+pyinstaller -F -w --uac-admin -i icon.ico Privacy.py
